@@ -1,0 +1,26 @@
+{
+  "name": "wudongyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
